@@ -1,7 +1,3 @@
-Here’s a professional `README.md` file tailored for your GitHub repository, framing this project as a strong portfolio piece for data science and data analyst roles. It highlights your technical skills, analytical insights, and the impact of your work.
-
----
-
 # Visual Analytics Investigation: Water Contamination and Wildlife Impact in Mistford
 
 ## Project Overview
